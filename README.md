@@ -1,13 +1,25 @@
 pyassets
-==
+======
 
 Library for managing web-assets
 
 **Work in progress**
 
+Install
+------------
+
+
+The package is not registered yet, so u have to clone package and call pip install <path>
+
+Usage
+------------
+
+
+see `tests` folder for more info
+
 
 TODO:
-====
+------------
 
 - [ ] more filters
 - [ ] cache handling
@@ -22,3 +34,7 @@ TODO:
     - [ ] context_processor
     - [ ] signals (?)
   
+Documentation:
+------------
+
+TODO: ^^
