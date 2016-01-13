@@ -9,10 +9,10 @@ Library for managing web-assets
 TODO:
 ====
 
-- [] more filters
-- [] filter ordering
-- [] output control
-- [] debug mode
-- [] group handling
-- [] Flask.ext
+- [ ] more filters
+- [ ] filter ordering
+- [ ] output control
+- [ ] debug mode
+- [ ] group handling
+- [ ] Flask.ext
   
